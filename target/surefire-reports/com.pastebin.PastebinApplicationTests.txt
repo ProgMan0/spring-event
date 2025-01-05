@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.pastebin.PastebinApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.732 s -- in com.pastebin.PastebinApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.913 s -- in com.pastebin.PastebinApplicationTests

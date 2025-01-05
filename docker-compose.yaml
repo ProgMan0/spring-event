@@ -11,7 +11,7 @@ services:
     ports:
       - "8088:8088"
     environment:
-      SPRING_DATASOURCE_URL: postgresql://testing_d014_user:fM6QP5iJd8iYZC4ZV82HWyGOyTNoztZG@dpg-ctlag0bqf0us73879oag-a.oregon-postgres.render.com/testing_d014
+      SPRING_DATASOURCE_URL: jdbc:postgresql://dpg-ctlag0bqf0us73879oag-a.oregon-postgres.render.com/testing_d014
       SPRING_DATASOURCE_USERNAME: testing_d014_user
       SPRING_DATASOURCE_PASSWORD: fM6QP5iJd8iYZC4ZV82HWyGOyTNoztZG
       SPRING_PROFILES_ACTIVE: prod
